@@ -125,6 +125,6 @@
         <stach-version>1.0.0</stach-version>
         <stach-extension-version>1.0.0</stach-extension-version>
         <engines-sdk-version>5.0.0</engines-sdk-version>
-        <poi-ooxml-version>4.0.1</poi-ooxml-version>
+        <poi-ooxml-version>4.1.1</poi-ooxml-version>
     </properties>
 </project>
